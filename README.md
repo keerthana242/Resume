@@ -1,4 +1,4 @@
-# Hi there, I'm Keerthana G!
+# Hi there, I'm Keerthana G! 
 
 A dedicated Computer Science and Engineering student with hands-on internship experience and robust technical skills across programming, web development, cloud computing, and databases. I am a quick learner with proven leadership and teamwork abilities, always striving to deliver innovative and impactful technical solutions.
 
@@ -7,9 +7,9 @@ A dedicated Computer Science and Engineering student with hands-on internship ex
 ## Contact & Profiles
 - **Email:** [ggkeerthana8@gmail.com](mailto:ggkeerthana8@gmail.com)
 - **Phone:** +91 82489296381
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com) *(https://www.linkedin.com/in/keerthana-g-gurueswaran-0202922a6/)*
-- **GitHub:** [GitHub Profile](https://github.com) *(https://github.com/keerthana242)*
-- **Portfolio:** [Portfolio Website](https://portfolio.com) *(https://keerthana242.github.io/Portfolio/)*
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/keerthana-g-gurueswaran-0202922a6/)
+- **GitHub:** [GitHub Profile](https://github.com/keerthana242)
+- **Portfolio:** [Portfolio Website](https://keerthana242.github.io/Portfolio/)
 
 ---
 
